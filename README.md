@@ -1,1 +1,3 @@
-# Sample-GO-WebApp
+# Sample GO WebApp
+
+Used Codefresh GitOps Sample Docker Application.
