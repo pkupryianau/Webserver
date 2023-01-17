@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: webserver-simple
-          image: docker.io/nickbreen/wp-www:v3.0.0
+          image: docker.io/wordpress:latest
           ports:
             - containerPort: 8080
