@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: webserver-simple
-          image: docker.io/kostiscodefresh/interest:latest
+          image: docker.io/kostiscodefresh/glooctl:latest
           ports:
             - containerPort: 8080
