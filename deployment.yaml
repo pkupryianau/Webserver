@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: webserver-simple
-          image: docker.io/kostiscodefresh/aws-gitops-workshop:main
+          image: docker.io/kostiscodefresh/kubectl-argo-rollouts:latest
           ports:
             - containerPort: 8080
